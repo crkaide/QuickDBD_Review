@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# QuickDBD Recommendation
+## Review of https://app.quickdatabasediagrams.com/
 
-You can use the [editor on GitHub](https://github.com/crkaide/QuickDBD_Review/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Overview
+I was introduced to QuickDBD in a data analytics course, and in the field, have found it to be my first resource for presenting clear database connections to non-technical audiences.  It helps me organize my own thinking, and using its free tier (10 tables) led me to the Pro tier to create a project-wide overview of data connections and sources for a large multi-institutional project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pros
+1. Your QuickDBD databases are saved online, but easily exported in any format you need (PNG, PDF, SQL [particularly helpful!]).  That means you can design a database on your time, distribute copies in any format your team is most comfortable reviewing them, and make real-time changes wherever you need to.
+2. You can define your variables to any level of granularity you wish, and the diagram remains easily readable.  You're welcome to try replicating this feature in other diagram-building applications, but QuickDBD makes clear: a) primary and foreign keys, b) table headers vs field labels, c) data types, and d) connections between tables without visual clutter or complication.
+3. Training documents and app documentation are at your fingertips and viewable in the same browser window where you're working.  The three-paneled interface is clean, economical with regard to your desktop space, and exactly as customizable as is convenient (e.g., there's not an over-abundance of customization, as the features you'll intuitively need are simply built in and easily visible).
+4. Among the many intuitive features of QuickDBD, creating and editing database connections stands out.  Relationships can be edited using the keyboard alone, for programmers who prefer to interact as little as possible with the mouse, but for those who don't mind (or prefer) working with the mouse, connections are click-and-drag.
 
-### Markdown
+### Cons
+1. Any database designing application will face limits with regard to large-scale projects (10+ tables)--QuickDBD is no exception.  The 10-table/1-diagram free tier gives the new user enough space to determine, realistically, whether this service will be useful to them.  When you come up against those limits (e.g., you need to add your 11th+ table), your project has grown to a size that will present baked-in complications--there's not really a way to unclutter this visually, and you'll find nothing cutting-edge in QuickDBD in this regard.
+2. Cost.  As of this writing, subscription is $14/mo or $95/yr.  As useful and well-designed as QuickDBD is, at those costs, it's more expensive than most streaming apps.  The workflow of most analysts will comprise a flurry of building/editing for each project, followed by long periods of referencing the project diagram and making only minor changes.  Analysts will generally work with a limited number of total databases, meaning that once those are mapped in QuickDBD, you more need to be able to see them than change them (while retaining the ability to edit as needed or incorporate new sources).  That leaves you with the options of paying one of the above prices, or paying the once-off $7/wk fee as needed and rushing thru your work.  At $5.99/mo., I wouldn't think twice about signing up for this.  At its current cost, it's steep.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crkaide/QuickDBD_Review/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Summary
+QuickDBD presents a robust solution to an issue that programmers at all levels face--how do you design a database that's useful to you, clear to a variety of audiences, and easily edited when connections and sources change?  If your organization will pay a yearly subscription, this is incredibly worth it.  If you're footing the cost, you might find it a little steep after your initial build is complete, but there's no wasting your money here--this does what it claims, intuitively and easily, and has immediate value even at the free tier.
